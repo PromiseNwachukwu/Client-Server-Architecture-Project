@@ -1,4 +1,5 @@
 # Client-Server Architecture with MySQL
+### A typical example of a Client-Server communication.
 ![Screenshot from 2023-10-04 22-32-07](https://github.com/PromiseNwachukwu/Client-Server-Architecture-Project/assets/109115304/49a5228e-c5aa-401b-a09a-8461f72ca8c4)
 
 ## Implementing a Client Server Architecture using MySQL Database Management System (DBMS).
@@ -26,3 +27,9 @@ Replace '127.0.0.1' to '0.0.0.0' like this:
 
 #### (6). From mysql client Linux Server connect remotely to mysql server Database Engine without using SSH. You must use the mysql utility to perform this action.
 ![Screenshot from 2023-10-05 23-18-10](https://github.com/PromiseNwachukwu/Client-Server-Architecture-Project/assets/109115304/4afd94b8-fc32-4237-8b01-5d2369d0e630)
+
+#### (7). Check that you have successfully connected to a remote MySQL server and can perform SQL queries.
+![Screenshot from 2023-10-05 23-42-44](https://github.com/PromiseNwachukwu/Client-Server-Architecture-Project/assets/109115304/5b2893e6-d8d9-4327-94c0-a54279f6ecce)
+
+### Project completed.
+
